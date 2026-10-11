@@ -11,8 +11,6 @@
 </p>
 
 <img src="https://img.shields.io/badge/Domain-Automotive%20Safety-00C2FF?style=for-the-badge&logo=autocad&logoColor=white" alt="Automotive safety"/>
-<img src="https://img.shields.io/badge/Monitoring-TPMS-102A56?style=for-the-badge&logo=speedtest&logoColor=white" alt="TPMS"/>
-<img src="https://img.shields.io/badge/Controller-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 <br/>
